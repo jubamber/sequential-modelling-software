@@ -1,5 +1,7 @@
 # 时间序列分析工作站 (Time Series Analysis Workstation)
 
+Github Repository: https://github.com/jubamber/sequential-modelling-software
+
 ## 项目简介
 
 **时间序列分析工作站** 是一款基于 Python 开发的轻量级本地桌面应用工具。该项目旨在为学习者、数据科学家及业务人员提供一个直观、易用的平台，用于探索、训练和评估多种**时间序列预测模型**，目前只支持**单变量**时间序列数据分析。

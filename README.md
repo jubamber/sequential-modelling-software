@@ -2,6 +2,8 @@
 
 [![Chinese Version](https://img.shields.io/badge/Language-中文-blue.svg)](./README_zh.md)
 
+Github Repository: https://github.com/jubamber/sequential-modelling-software
+
 ## Project Introduction
 
 **Time Series Analysis Workstation** is a lightweight, local desktop application developed in Python. This project aims to provide learners, data scientists, and business personnel with an intuitive and easy-to-use platform for exploring, training, and evaluating various **Time Series Forecasting Models**. Currently, it supports **univariate** time series data analysis.
@@ -51,14 +53,14 @@ It is recommended to use **Conda** or **Python venv** to create an independent v
     venv\Scripts\activate
     # Activate on Linux/Mac
     source venv/bin/activate
-```
+    ```
 
 3.  **Install Dependencies**:
     Ensure the `requirements.txt` file is in the directory and run the following command:
 
     ```bash
     pip install -r requirements.txt
-```
+    ```
 
 
 
